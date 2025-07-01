@@ -1,5 +1,3 @@
-# Manual-Testing-P1
-
 # 🧪 Manual Testing Project - P1
 
 A beginner-level manual testing project showcasing fundamental QA skills such as test planning, case design, bug reporting, and execution tracking using real-world testing tools and practices.
