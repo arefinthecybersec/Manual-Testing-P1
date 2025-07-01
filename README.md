@@ -39,7 +39,7 @@ Manual-Testing-P1/
 
 ---
 
-## 📸 Screenshots / Previews
+## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/68e9be19-38bc-43cd-a818-83f9ee4cc967)
 
