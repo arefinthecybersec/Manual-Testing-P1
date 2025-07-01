@@ -30,12 +30,8 @@ This project demonstrates manual testing processes using a sample application, f
 
 ## 📁 File Structure
 
-Manual-Testing-P1/
-├── Test Plan.xlsx
-├── Test Cases.xlsx
-├── Bug Report.xlsx
-└── README.md
-
+- Test Case Write: https://docs.google.com/spreadsheets/d/1VeYWQ6Hvf-o1aVvMM-Zytc0Qrmb5Qa55nCW9Icb1xTw/edit?usp=sharing
+- Bug Report: https://docs.google.com/spreadsheets/d/1gfRyU2G4y59ueM_-zWDayxc50q_SJrVKIAJbc046Zkk/edit?usp=sharing
 
 ---
 
