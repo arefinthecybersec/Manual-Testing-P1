@@ -6,7 +6,7 @@ A beginner-level manual testing project showcasing fundamental QA skills such as
 
 ## 📌 Project Overview
 
-This project demonstrates manual testing processes using a sample application, following standard QA practices. It includes test case documentation, bug reports, and test result summaries using Excel and industry tools.
+This project demonstrates manual testing processes using a sample application, following standard QA practices. It includes test case documentation, bug reports, and test result summaries using Google Sheets.
 
 ---
 
