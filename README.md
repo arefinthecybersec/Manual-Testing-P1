@@ -38,7 +38,13 @@ This project demonstrates manual testing processes using a sample application, f
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/68e9be19-38bc-43cd-a818-83f9ee4cc967)
+- Test Case Write
+![image](https://github.com/user-attachments/assets/d9abbb0a-548e-470b-a946-11e163e57a22)
 
-![image](https://github.com/user-attachments/assets/12d10fd3-48ac-42f7-a89e-fe89f8356d74)
+<br>
+
+- Bug Report
+![image](https://github.com/user-attachments/assets/596d1d1b-6859-4162-9c28-8592332a02ed)
+
+
 
